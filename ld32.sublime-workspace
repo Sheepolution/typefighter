@@ -1,0 +1,1787 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	JS - For loop"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"if",
+				"if	JS - if"
+			],
+			[
+				"lo",
+				"location	Window"
+			],
+			[
+				"twen",
+				"tweenmanager"
+			],
+			[
+				"priva",
+				"showPrivates"
+			],
+			[
+				"origi",
+				"originalObject"
+			],
+			[
+				"button",
+				"buttonPrivate"
+			],
+			[
+				"buton",
+				"buttonBack"
+			],
+			[
+				"edit",
+				"editOriginal"
+			],
+			[
+				"tex",
+				"textHeightMargin"
+			],
+			[
+				"longest",
+				"longestValueLimit"
+			],
+			[
+				"texT",
+				"textWidth"
+			],
+			[
+				"text",
+				"textHeightMargin"
+			],
+			[
+				"upd",
+				"updateFunc"
+			],
+			[
+				"scrollbar",
+				"scrollbarBG"
+			],
+			[
+				"scroll",
+				"scrollbarBG"
+			],
+			[
+				"title",
+				"titleBarHeight"
+			],
+			[
+				"number",
+				"numberOfVars"
+			],
+			[
+				"numbER",
+				"numberOfVars"
+			],
+			[
+				"selec",
+				"selectorMargin"
+			],
+			[
+				"num",
+				"numberOfVars"
+			],
+			[
+				"_ceck",
+				"_checkType"
+			],
+			[
+				"getDr",
+				"getDrawY"
+			],
+			[
+				"togg",
+				"toggleMusic"
+			],
+			[
+				"toggle",
+				"toggleOptions"
+			],
+			[
+				"showin",
+				"showingAudio"
+			],
+			[
+				"show",
+				"showingInstruction"
+			],
+			[
+				"bottle",
+				"bottle_bottom"
+			],
+			[
+				"level",
+				"levelselect"
+			],
+			[
+				"goingTo",
+				"goingToNextPage"
+			],
+			[
+				"pause",
+				"pausemenu"
+			],
+			[
+				"butto",
+				"buttonRestart"
+			],
+			[
+				"setFi",
+				"setDefaultFilter"
+			],
+			[
+				"wi",
+				"willMoveAway"
+			],
+			[
+				"state",
+				"stateClass"
+			],
+			[
+				"gamoever",
+				"gameovertimer"
+			],
+			[
+				"stop",
+				"love.system.openURL"
+			],
+			[
+				"nequad",
+				"love.graphics.newQuad"
+			],
+			[
+				"neq",
+				"love.graphics.newQuad"
+			],
+			[
+				"max",
+				"maxVelocity"
+			],
+			[
+				"fullscre",
+				"love.window.setFullscreen"
+			],
+			[
+				"in",
+				"InputManager	class"
+			],
+			[
+				"print",
+				"love.graphics.print"
+			],
+			[
+				"setwidth",
+				"love.graphics.setLineWidth"
+			],
+			[
+				"line",
+				"love.graphics.line"
+			],
+			[
+				"default",
+				"love.graphics.setDefaultFilter"
+			],
+			[
+				"circl",
+				"love.graphics.circle"
+			],
+			[
+				"visib",
+				"love.mouse.isVisible"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "play.js",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/javascript.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javascript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/javascript.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 214.0,
+		"last_filter": "liverlad",
+		"selected_items":
+		[
+			[
+				"liverlad",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"proj clo",
+				"Project: Close"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"haxe",
+				"Set Syntax: Haxe"
+			],
+			[
+				"liverald",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lvierlead",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"set lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"liverealed",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle ",
+				"View: Toggle Menu"
+			],
+			[
+				"liverelad",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverealda",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereald",
+				"LiveReload: Help"
+			],
+			[
+				"liverea",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"convert to ba",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"save",
+				"Snippet: Object Value JS"
+			],
+			[
+				"gist ope",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"liverlead",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereal",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live ena",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverl",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"snipp",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"livelr",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"i3 ",
+				"Set Syntax: i3-wm Config"
+			],
+			[
+				"liverelao",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"liveere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"find",
+				"Find: In Project"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"liverelead",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"sen lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"set syn lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"high",
+				"HighlightWords: Toggle Settings"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"colorsc",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"pyhto",
+				"Set Syntax: Python"
+			],
+			[
+				"highlig",
+				"HighlightWords: Highlight Words"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"revie",
+				"TodoReview: Project Files"
+			],
+			[
+				"type",
+				"TypeTodo: Open config: project"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"todone",
+				"Set Syntax: ToDone"
+			],
+			[
+				"find ",
+				"Find: In Project"
+			],
+			[
+				"liverela",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"dock",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"liverelea",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sntax lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"livelrea",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"ivelrea",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverele",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"colorscheme",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"set sya java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set synt love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"colorschem",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"set snyax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setx lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"lve",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"moveta",
+				"Move Tab: To the left"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Self test"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"vinte",
+				"Vintageous: Reset"
+			],
+			[
+				"tab",
+				"Tab Filter"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"vintag",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"oggle",
+				"Git: Toggle Annotations"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"git stas",
+				"Git: Stash Changes"
+			],
+			[
+				"ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"stp",
+				"STProjectMaker: Create project"
+			],
+			[
+				"tree",
+				"ProjectTreeTemplater: Run"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"new clas",
+				"Haxe: New Class"
+			],
+			[
+				"new ",
+				"Haxe: New Class"
+			],
+			[
+				"build",
+				"Haxe: Run build"
+			],
+			[
+				"haxeli",
+				"Haxe: Run build"
+			],
+			[
+				"haxelib",
+				"Haxelib: Install library"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"colorsch",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"colorsche",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"tog",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/big_disk/Programming/Javascript/Ludum Dare 32"
+	],
+	"file_history":
+	[
+		"/mnt/big_disk/Programming/Javascript/Ludum Dare 32/main.js",
+		"/mnt/big_disk/Programming/Javascript/Ludum Dare 32/game.js",
+		"/mnt/big_disk/Programming/Javascript/Ludum Dare 32/play.js",
+		"/mnt/big_disk/Programming/Javascript/Ludum Dare 32/index.html",
+		"/mnt/big_disk/Programming/Javascript/Baa/test/player.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/baa.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/test/main.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/test/game.js",
+		"/mnt/big_disk/Mount disk to folder",
+		"/mnt/big_disk/LOVE/Project Camera/Game/actor.lua",
+		"/mnt/big_disk/LOVE/Project Camera/Game/cowboy.lua",
+		"/mnt/big_disk/LOVE/Old Project Camera/Game/creator.lua",
+		"/mnt/big_disk/Programming/Javascript/Baa/test/index.html",
+		"/mnt/big_disk/Programming/Javascript/Warmup/libs/underscore.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/out/index.html",
+		"/media/daniel/883F-77CF/Baa/baa.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/out/symbols/baa.graphics._image.html",
+		"/mnt/big_disk/Programming/Javascript/jquery-1.11.2.min.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/conf.json",
+		"/mnt/big_disk/Programming/Javascript/Baa/out/symbols/_global_.html",
+		"/mnt/big_disk/Programming/Javascript/Pongtris with new baa/ball.js",
+		"/mnt/big_disk/Programming/Javascript/Pongtris with new baa/play.js",
+		"/mnt/big_disk/Programming/Javascript/Pongtris with new baa/main.js",
+		"/mnt/big_disk/Programming/Javascript/Pongtris with new baa/libs/baa.js",
+		"/mnt/big_disk/Programming/Javascript/Pongtris with new baa/game.js",
+		"/mnt/big_disk/Programming/Javascript/Pongtris with new baa/piece.js",
+		"/mnt/big_disk/Programming/Javascript/RXI/kira.js",
+		"/home/daniel/.cache/.fr-WnL8Ud/Default.sublime-keymap",
+		"/mnt/big_disk/Programming/SIMPLE/main.c",
+		"/home/daniel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/daniel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/daniel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/daniel/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/tmp/Key bindings sublime text",
+		"/mnt/big_disk/LOVE/Basecode rxi/ld/entity.lua",
+		"/mnt/big_disk/Programming/Javascript/Memoro new/index.html",
+		"/mnt/big_disk/Programming/Javascript/Memoro new/init.js",
+		"/mnt/big_disk/Programming/Javascript/Mover/libs/baa.js",
+		"/mnt/big_disk/Programming/Javascript/In Hiding/index.html",
+		"/mnt/big_disk/Programming/Javascript/In Hiding port/index.css",
+		"/mnt/big_disk/Programming/Javascript/In Hiding port/girl.js",
+		"/mnt/big_disk/Programming/Javascript/faced/basecode/debug.js",
+		"/mnt/big_disk/Programming/Javascript/faced/libs/love.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/main.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/game.js",
+		"/mnt/big_disk/Programming/Javascript/Baa/LICENSE",
+		"/mnt/big_disk/Programming/Javascript/Memoro/juicytile.js",
+		"/mnt/big_disk/Programming/Javascript/Memoro/libs/baa.js",
+		"/mnt/big_disk/Programming/Javascript/Memoro/memoro.sublime-project",
+		"/mnt/big_disk/Dropbox/Private/Gemtris/Grid.hx",
+		"/mnt/big_disk/Programming/Javascript/Memoro/play.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/audio/faces/bad-crate.wav",
+		"/mnt/big_disk/Programming/Javascript/FACED/black.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/FACED.TODO",
+		"/mnt/big_disk/Programming/Javascript/FACED/pausemenu.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/lijstje.txt",
+		"/mnt/big_disk/Programming/Javascript/FACED/gray.js",
+		"/mnt/big_disk/Programming/Javascript/Memoro/main.js",
+		"/mnt/big_disk/Programming/Javascript/Memoro/game.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/input.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/faced.sublime-project",
+		"/mnt/big_disk/Programming/Javascript/FACED/playfield.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/libs/tocca.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/libs/classist.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/orange.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/level.js",
+		"/home/daniel/bin/encode_timelapse.py",
+		"/mnt/big_disk/Programming/Javascript/FACED/libs/love.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/libs/levelgenerator.lua",
+		"/mnt/big_disk/Programming/Javascript/FACED/images/faces/introfaceseses.fla",
+		"/mnt/big_disk/Programming/Javascript/FACED/fonts/digital.otf",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/utils.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/tween.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/timer.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/rect.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/point.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/group.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/basecode/debug.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/audio/maintheme.ogg",
+		"/mnt/big_disk/Programming/Javascript/FACED/yellow.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/wonmenu.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/white.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/red.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/purple.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/player.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/moveable.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/main.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/magnet.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/intro.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/index.html",
+		"/mnt/big_disk/Programming/Javascript/FACED/green.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/face.js",
+		"/mnt/big_disk/Programming/Javascript/FACED/button.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/player.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/gray.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/main.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/playfield.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/button.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/basecode/utils.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/wonmenu.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/libs/love.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/FACED.TODO",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/black.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/moveable.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/basecode/input.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/index.html",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/faced.sublime-project",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/level.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/basecode/timer.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/libs/classist.js",
+		"/C/Users/Daniel/Sheepolution/logomening.txt",
+		"/C/Users/Daniel/Dropbox/Sheepolution/logo teksten/logomening.txt~",
+		"/C/Users/Daniel/Dropbox/Sheepolution/Faced/levels_editorthingy.txt",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/game.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/basecode/entity.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/hox/board.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/levelselect.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/basecode/debug.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/intro.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/pausemenu.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Love2D/Sleeping Projects/Combat Time/Game/main.lua",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/images/faces/introfaceseses.fla",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Website/Back-up/index.php",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/face.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/basecode/group.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/fonts/digital.otf",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Javascript/FACED/basecode/tween.js",
+		"/C/Users/Daniel/Documents/Mijn Documenten/Programmeren/Haxe/Source Doubt/ld/Tween.hx"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"<open files>,<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"255",
+			"}\n\nbaa.",
+			"}\n\nbaa",
+			"\nbaa",
+			"\n",
+			"Camera = ",
+			"Timer = ",
+			"[type]",
+			" on screen",
+			"type",
+			"]} ",
+			"{[type]}",
+			"[type]",
+			"horizontal",
+			"window.",
+			"this._speed",
+			"this.speed",
+			"this._shake.",
+			"this",
+			"this._shake ",
+			"_center",
+			"_y",
+			"_x",
+			"_",
+			"this._x",
+			"this._width",
+			"._",
+			"_center",
+			"_c",
+			"__",
+			"_",
+			"__shake",
+			"__",
+			"__shake",
+			"this.",
+			"this.setVelocity",
+			"this.",
+			"self.follow",
+			"width",
+			" print",
+			"\n",
+			"3,1",
+			"3,",
+			"0.3",
+			"ke(10",
+			"100",
+			"mode = ",
+			"shakeTimer",
+			"shake",
+			"update",
+			"Camera",
+			"1000",
+			"300",
+			"1200",
+			"window",
+			"speed",
+			".speed =",
+			"this.speed = ",
+			"window",
+			"centerX",
+			"0",
+			"border",
+			"Game",
+			"Utils",
+			" * dt;",
+			"100",
+			"x",
+			"width",
+			"window",
+			"10",
+			"100",
+			"500",
+			"800",
+			"100",
+			".y",
+			"top",
+			"300",
+			"bottom",
+			"cameraLeft",
+			"x",
+			"1000",
+			"100",
+			"this.follow",
+			".stack",
+			"100",
+			"200",
+			"scissor",
+			"none",
+			"shape",
+			"prevent",
+			"preventDe",
+			"drawloop",
+			"shifts",
+			"inout",
+			"whether to over",
+			"Whether to overwrite properties that already being tweened.",
+			"{boolean} for",
+			"if you ",
+			"Error:",
+			"in a string",
+			"on its own.",
+			"\n ",
+			"on its own.\n",
+			"on its own.",
+			"in seconds\n",
+			".force",
+			"this.obj",
+			"this.rate",
+			"this.vars",
+			"this.manager",
+			"this.easing",
+			"this.inout",
+			"inout",
+			"progress",
+			"_inited",
+			"40",
+			"tween",
+			" baa.timer",
+			" baa.timer ",
+			"baa.timer}",
+			"baa.timer.",
+			"baa.tween.",
+			"baa.tween",
+			"timer",
+			"time manager",
+			"its",
+			"it's",
+			"@see"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "play.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 200.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "ld32.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pla",
+				"play.js"
+			],
+			[
+				"gae",
+				"game.js"
+			],
+			[
+				"mai",
+				"main.js"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"baa",
+				"baa.js"
+			],
+			[
+				"game",
+				"test/game.js"
+			],
+			[
+				"juic",
+				"juicytile.js"
+			],
+			[
+				"jui",
+				"juicytile.js"
+			],
+			[
+				"tile",
+				"tile.js"
+			],
+			[
+				"play",
+				"play.js"
+			],
+			[
+				"playfie",
+				"playfield.js"
+			],
+			[
+				"time",
+				"basecode/timer.js"
+			],
+			[
+				"intro",
+				"intro.js"
+			],
+			[
+				"love",
+				"libs/love.js"
+			],
+			[
+				"occ",
+				"libs/tocca.js"
+			],
+			[
+				"levelse",
+				"levelselect.js"
+			],
+			[
+				"tocca",
+				"libs/tocca.js"
+			],
+			[
+				"tocc",
+				"libs/tocca.js"
+			],
+			[
+				"pause",
+				"pausemenu.js"
+			],
+			[
+				"butt",
+				"button.js"
+			],
+			[
+				"input",
+				"basecode\\input.js"
+			],
+			[
+				"playfiel",
+				"playfield.js"
+			],
+			[
+				"todo",
+				"FACED.TODO"
+			],
+			[
+				"level",
+				"level.js"
+			],
+			[
+				"button",
+				"button.js"
+			],
+			[
+				"wonem",
+				"wonmenu.js"
+			],
+			[
+				"levelses",
+				"levelselect.js"
+			],
+			[
+				"entity",
+				"basecode\\entity.js"
+			],
+			[
+				"playfi",
+				"playfield.js"
+			],
+			[
+				"wonmen",
+				"wonmenu.js"
+			],
+			[
+				"lvel",
+				"level.js"
+			],
+			[
+				"debug",
+				"basecode\\debug.js"
+			],
+			[
+				"entiy",
+				"basecode\\entity.js"
+			],
+			[
+				"uti",
+				"basecode\\utils.js"
+			],
+			[
+				"levese",
+				"levelselect.js"
+			],
+			[
+				"won",
+				"wonmenu.js"
+			],
+			[
+				"entit",
+				"basecode\\entity.js"
+			],
+			[
+				"grou",
+				"basecode\\group.js"
+			],
+			[
+				"wonemn",
+				"wonmenu.js"
+			],
+			[
+				"playf",
+				"playfield.js"
+			],
+			[
+				"intr",
+				"intro.js"
+			],
+			[
+				"ma",
+				"main.js"
+			],
+			[
+				"face",
+				"face.js"
+			],
+			[
+				"twee",
+				"basecode\\tween.js"
+			],
+			[
+				"too",
+				"FACED.TODO"
+			],
+			[
+				"enti",
+				"basecode/entity.js"
+			],
+			[
+				"black",
+				"black.js"
+			],
+			[
+				"levels",
+				"levelselect.js"
+			],
+			[
+				"class",
+				"libs/classist.js"
+			],
+			[
+				"entt",
+				"basecode/entity.js"
+			],
+			[
+				"pauseme",
+				"pausemenu.js"
+			],
+			[
+				"wonme",
+				"wonmenu.js"
+			],
+			[
+				"levelsel",
+				"levelselect.js"
+			],
+			[
+				"lvoe",
+				"libs/love.js"
+			],
+			[
+				"magnet",
+				"magnet.js"
+			],
+			[
+				"gra",
+				"gray.js"
+			],
+			[
+				"orange",
+				"orange.js"
+			],
+			[
+				"purl",
+				"purple.js"
+			],
+			[
+				"gree",
+				"green.js"
+			],
+			[
+				"gray",
+				"gray.js"
+			],
+			[
+				"red",
+				"red.js"
+			],
+			[
+				"white",
+				"white.js"
+			],
+			[
+				"ice",
+				"faced.sublime-project"
+			],
+			[
+				"purple",
+				"purple.js"
+			],
+			[
+				"green",
+				"green.js"
+			],
+			[
+				"player",
+				"player.js"
+			],
+			[
+				"rect",
+				"basecode/rect.js"
+			],
+			[
+				"orang",
+				"orange.js"
+			],
+			[
+				"pur",
+				"purple.js"
+			],
+			[
+				"faced",
+				"faced.sublime-project"
+			],
+			[
+				"but",
+				"button.js"
+			],
+			[
+				"ca",
+				"libs/classist.js"
+			],
+			[
+				"levelege",
+				"libs/levelgenerator.lua"
+			],
+			[
+				"leves",
+				"levelselect.js"
+			],
+			[
+				"inp",
+				"basecode/input.js"
+			],
+			[
+				"inpu",
+				"basecode/input.js"
+			],
+			[
+				"tween",
+				"basecode/tween.js"
+			],
+			[
+				"",
+				"playfield.js"
+			],
+			[
+				"levelsee",
+				"levelselect.js"
+			],
+			[
+				"evel",
+				"level.js"
+			],
+			[
+				"wonm",
+				"wonmenu.js"
+			],
+			[
+				"palyf",
+				"playfield.js"
+			],
+			[
+				"classi",
+				"libs/classist.js"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"lijstje",
+				"lijstje.txt"
+			],
+			[
+				"paus",
+				"pausemenu.js"
+			],
+			[
+				"rec",
+				"basecode/rect.js"
+			],
+			[
+				"point",
+				"basecode/point.js"
+			],
+			[
+				"menu",
+				"wonmenu.js"
+			],
+			[
+				"move",
+				"moveable.js"
+			],
+			[
+				"lijste",
+				"lijstje.txt"
+			],
+			[
+				"womn",
+				"wonmenu.js"
+			],
+			[
+				"mn",
+				"pausemenu.js"
+			],
+			[
+				"min",
+				"main.js"
+			],
+			[
+				"flux",
+				"~/big_disk/LOVE/Ludum Dare 30/libs/flux.lua"
+			],
+			[
+				"faces",
+				"faced.sublime-project"
+			],
+			[
+				"yell",
+				"yellow.js"
+			],
+			[
+				"leve",
+				"level.js"
+			],
+			[
+				"genera",
+				"libs/levelgenerator.lua"
+			],
+			[
+				"timer",
+				"basecode/timer.js"
+			],
+			[
+				"pl",
+				"player.js"
+			],
+			[
+				"playe",
+				"player.js"
+			],
+			[
+				"ent",
+				"basecode/entity.js"
+			],
+			[
+				"fiel",
+				"playfield.js"
+			],
+			[
+				"oran",
+				"orange.js"
+			],
+			[
+				"blak",
+				"black.js"
+			],
+			[
+				"orna",
+				"orange.js"
+			],
+			[
+				"debu",
+				"basecode/debug.js"
+			],
+			[
+				"purpl",
+				"purple.js"
+			],
+			[
+				"gren",
+				"green.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"mvoe",
+				"moveable.js"
+			],
+			[
+				"fac",
+				"face.js"
+			],
+			[
+				"movea",
+				"moveable.js"
+			],
+			[
+				"yellow",
+				"yellow.js"
+			],
+			[
+				"movae",
+				"moveable.js"
+			],
+			[
+				"gre",
+				"green.js"
+			],
+			[
+				"manget",
+				"magnet.js"
+			],
+			[
+				"levle",
+				"level.js"
+			],
+			[
+				"moe",
+				"moveable.js"
+			],
+			[
+				"mang",
+				"magnet.js"
+			],
+			[
+				"magne",
+				"magnet.js"
+			],
+			[
+				"moveab",
+				"moveable.js"
+			],
+			[
+				"magn",
+				"magnet.js"
+			],
+			[
+				"ye",
+				"yellow.js"
+			],
+			[
+				"whit",
+				"white.js"
+			],
+			[
+				"man",
+				"main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "warm",
+		"selected_items":
+		[
+			[
+				"warm",
+				"/mnt/big_disk/Programming/Javascript/Warmup/warmup.sublime-project"
+			],
+			[
+				"",
+				"/mnt/big_disk/Programming/HaXe/gemtris/gemtris.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"update",
+				"updateMovement"
+			],
+			[
+				"",
+				"delay"
+			],
+			[
+				"image",
+				"Image"
+			],
+			[
+				"for",
+				"forEach"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "ka",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/home/daniel/.config/sublime-text-3/Packages/Theme - Spacegray"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
